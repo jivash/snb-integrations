@@ -36,7 +36,7 @@
       "Business Unit Name": "Discovery Chemistry"
     },
     {
-      "isid": "Alex.White",			
+      "isid": "Joseph.Cook",			
       "Business Unit ID": "1007",
       "Business Unit Name": "Formulations"
     },
@@ -46,7 +46,7 @@
       "Business Unit Name": "High Throughput Screening"
     },
     {
-      "isid": "JIVASHINA",		
+      "isid": "juliaGMAIL",		
       "Business Unit ID": "1009",
       "Business Unit Name": "Preclinical PK/PD"
     },
@@ -69,6 +69,7 @@
       "Business Unit Name": "Protein Chracterization"
     },
     {	
+      "isid": "juliaPKI"
       "Business Unit ID": "1014",
       "Business Unit Name": "Protein Production"
     },
