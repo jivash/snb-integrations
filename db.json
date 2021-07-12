@@ -3,93 +3,93 @@
 [
     {
       "isid": "Lily.Ward",		
-      "Business Unit ID": 1000,
-      "Business Unit Name": "Analytical Chemistry"
+      "BuID": 1000,
+      "BuName": "Analytical Chemistry"
     },
     {
       "isid": "Steven.Lubman",	
-      "Business Unit ID": 1001,
-      "Business Unit Name": "Assay Development"
+      "BuID": 1001,
+      "BuName": "Assay Development"
     },
     {
       "isid": "Emma.Morris",			
-      "Business Unit ID": 1002,
-      "Business Unit Name": "Assay Screening"
+      "BuID": 1002,
+      "BuName": "Assay Screening"
     },
     {
       "isid": "Emily.Stewart",		
-      "Business Unit ID": 1003,
-      "Business Unit Name": "Cancer Biology"
+      "BuID": 1003,
+      "BuName": "Cancer Biology"
     },
     {
       "isid": "Ella.King",				
-      "Business Unit ID": 1004,
-      "Business Unit Name": "Computer Aided Drug Design"
+      "BuID": 1004,
+      "BuName": "Computer Aided Drug Design"
     },
     {
       "isid": "Daniel.Miller",				 
-      "Business Unit ID": 1005,
-      "Business Unit Name": "CRO Chemistry"
+      "BuID": 1005,
+      "BuName": "CRO Chemistry"
     },
     {
       "isid": "Chloe.Clark",			
-      "Business Unit ID": 1006,
-      "Business Unit Name": "Discovery Chemistry"
+      "BuID": 1006,
+      "BuName": "Discovery Chemistry"
     },
     {
       "isid": "Joseph.Cook",			
-      "Business Unit ID": 1007,
-      "Business Unit Name": "Formulations"
+      "BuID": 1007,
+      "BuName": "Formulations"
     },
     {
       "isid": "Robert.Long",			
-      "Business Unit ID": 1008,
-      "Business Unit Name": "High Throughput Screening"
+      "BuID": 1008,
+      "BuName": "High Throughput Screening"
     },
     {
       "isid": "juliaGMAIL",		
-      "Business Unit ID": 1009,
-      "Business Unit Name": "Preclinical PK/PD"
+      "BuID": 1009,
+      "BuName": "Preclinical PK/PD"
     },
     {
       "isid": "tom.winters",			
-      "Business Unit ID": 1010,
-      "Business Unit Name": "Process Chemistry"
+      "BuID": 1010,
+      "BuName": "Process Chemistry"
     },
     {
       "isid": "kobersky",	
-      "Business Unit ID": 1011,
-      "Business Unit Name": "Radio Chemistry"
+      "BuID": 1011,
+      "BuName": "Radio Chemistry"
     },
     {
       "isid": "valerian",
-      "Business Unit ID": 1012,
-      "Business Unit Name": "Plasmid Production"
+      "BuID": 1012,
+      "BuName": "Plasmid Production"
     },
     {
       "isid": "tom",      
-      "Business Unit ID": 1013,
-      "Business Unit Name": "Protein Characterization"
+      "BuID": 1013,
+      "BuName": "Protein Characterization"
     },
     {	
       "isid": "juliaPKI",
-      "Business Unit ID": 1014,
-      "Business Unit Name": "Protein Production"
+      "BuID": 1014,
+      "BuName": "Protein Production"
     },
     {
       "isid": "julia.ivashina1",
-      "Business Unit ID": 1015,
-      "Business Unit Name": "Toxicology"
+      "BuID": 1015,
+      "BuName": "Toxicology"
     },
     {
       "isid": "fajtj",		
-      "Business Unit ID": 1025,
-      "Business Unit Name": "MRL/IT - GIC Research to Release"
+      "BuID": 1025,
+      "BuName": "MRL/IT - GIC Research to Release"
     },
     {
       "isid": "pleskovv",		
-      "Business Unit ID": 1026,
-      "Business Unit Name": "MRL/IT - Integration Delivery"
+      "BuID": 1026,
+      "BuName": "MRL/IT - Integration Delivery"
     }
 ]
 }
