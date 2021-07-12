@@ -2,17 +2,17 @@
   "BusinessUnits":
 [
     {
-      "isid": "Lily.Ward",		
+      "id": "Lily.Ward",		
       "BuID": 1000,
       "BuName": "Analytical Chemistry"
     },
     {
-      "isid": "Steven.Lubman",	
+      "id": "Steven.Lubman",	
       "BuID": 1001,
       "BuName": "Assay Development"
     },
     {
-      "isid": "Emma.Morris",			
+      "id": "Emma.Morris",			
       "BuID": 1002,
       "BuName": "Assay Screening"
     },
@@ -22,72 +22,72 @@
       "BuName": "Cancer Biology"
     },
     {
-      "isid": "Ella.King",				
+      "id": "Ella.King",				
       "BuID": 1004,
       "BuName": "Computer Aided Drug Design"
     },
     {
-      "isid": "Daniel.Miller",				 
+      "id": "Daniel.Miller",				 
       "BuID": 1005,
       "BuName": "CRO Chemistry"
     },
     {
-      "isid": "Chloe.Clark",			
+      "id": "Chloe.Clark",			
       "BuID": 1006,
       "BuName": "Discovery Chemistry"
     },
     {
-      "isid": "Joseph.Cook",			
+      "id": "Joseph.Cook",			
       "BuID": 1007,
       "BuName": "Formulations"
     },
     {
-      "isid": "Robert.Long",			
+      "id": "Robert.Long",			
       "BuID": 1008,
       "BuName": "High Throughput Screening"
     },
     {
-      "isid": "juliaGMAIL",		
+      "id": "juliaGMAIL",		
       "BuID": 1009,
       "BuName": "Preclinical PK/PD"
     },
     {
-      "isid": "tom.winters",			
+      "id": "tom.winters",			
       "BuID": 1010,
       "BuName": "Process Chemistry"
     },
     {
-      "isid": "kobersky",	
+      "id": "kobersky",	
       "BuID": 1011,
       "BuName": "Radio Chemistry"
     },
     {
-      "isid": "valerian",
+      "id": "valerian",
       "BuID": 1012,
       "BuName": "Plasmid Production"
     },
     {
-      "isid": "tom",      
+      "id": "tom",      
       "BuID": 1013,
       "BuName": "Protein Characterization"
     },
     {	
-      "isid": "juliaPKI",
+      "id": "juliaPKI",
       "BuID": 1014,
       "BuName": "Protein Production"
     },
     {
-      "isid": "julia.ivashina1",
+      "id": "julia.ivashina1",
       "BuID": 1015,
       "BuName": "Toxicology"
     },
     {
-      "isid": "fajtj",		
+      "id": "fajtj",		
       "BuID": 1025,
       "BuName": "MRL/IT - GIC Research to Release"
     },
     {
-      "isid": "pleskovv",		
+      "id": "pleskovv",		
       "BuID": 1026,
       "BuName": "MRL/IT - Integration Delivery"
     }
