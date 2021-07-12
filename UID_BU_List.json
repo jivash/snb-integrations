@@ -1,5 +1,4 @@
-{
-  "data": [
+[
     {
       "isid": "Lily.Ward",		
       "Business Unit ID": "1000",
@@ -98,8 +97,4 @@
       "Business Unit ID": "1026",
       "Business Unit Name": "MRL/IT - Integration Delivery"
     }	
-  ],
-    "paging": {
-        "total": 100
-    }
-}
+]
