@@ -60,10 +60,12 @@
       "Business Unit Name": "Radio Chemistry"
     },
     {
+      "isid": "valerian",
       "Business Unit ID": "1012",
       "Business Unit Name": "Plasmid Production"
     },
     {
+      "isid": "tom",      
       "Business Unit ID": "1013",
       "Business Unit Name": "Protein Characterization"
     },
