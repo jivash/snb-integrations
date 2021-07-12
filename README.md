@@ -1,4 +1,4 @@
-# merck-snb-integrations
+# snb-integrations
 ## **Branching guidelines**
 * dev is the primary branch for approved changes that have not yet been deployed to the customer environment.
 * Before developing code, create a branch from dev and make your changes in that branch. Then, when ready, create a pull request to merge the changes into dev.
