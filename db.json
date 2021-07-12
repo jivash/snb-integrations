@@ -92,4 +92,37 @@
       "BuName": "MRL/IT - Integration Delivery"
     }
 ]
+"Projects":  
+[
+  {
+    "id": "M12345",
+    "biologicalTarget": "vacc",
+    "franchise": "Oncology",
+    "indication": "Indication Cancer",
+    "mkNumber": "MK-V666",
+    "projectDescription": "This field contains description of the Project M12345",
+    "projectStatus": "Super",
+    "therapeuticArea": "Oncology"
+  },
+  {
+    "id": "M54321",
+    "biologicalTarget": "AdRB",
+    "franchise": "Ophthalmology",
+    "indication": "Glaucoma",
+    "mkNumber": "MK-7777A",
+    "projectDescription": "This field contains description of the Project M12345",
+    "projectStatus": "Great",
+    "therapeuticArea": "Ophthalmology"
+  },
+  {
+    "id": "M97531",
+    "biologicalTarget": "BlgTrg",
+    "franchise": "Neurology",
+    "indication": "Education",
+    "mkNumber": "MK-3333A",
+    "projectDescription": "This field contains description of the Project M97531",
+    "projectStatus": "Great",
+    "therapeuticArea": "Neurology"
+  }
+]  
 }
