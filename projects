@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "Project ID": "1000",
+      "Project Name": "EGFr Kinase Inhibitors",
+      "TA": "Oncology"
+    },
+    {
+      "id": 2,
+      "Project ID": "1001",
+      "Project Name": "ACE Inhibitor",
+      "TA": "Cardiovascular"
+    },
+    {
+      "id": 3,
+      "Project ID": "1002",
+      "Project Name": "Sulfa Drugs",
+      "TA": "Anti-bacterial"
+    },
+    {
+      "id": 4,
+      "Project ID": "1003",
+      "Project Name": "Benzodiazapams",
+      "TA": "CNS"
+    },
+    {
+      "id": 5,
+      "Project ID": "1004",
+      "Project Name": "remdesivir",
+      "TA": "Anti-Viral"
+    },
+    {
+      "id": 6,
+      "Project ID": "1005",
+      "Project Name": "VGEFR Kinase Inhibitors",
+      "TA": "Oncology"
+    },
+    {
+      "id": 7,
+      "Project ID": "1006",
+      "Project Name": "Map Kinase",
+      "TA": "Oncology"
+    },
+    {
+      "id": 8,
+      "Project ID": "1007",
+      "Project Name": "WEE1",
+      "TA": "Oncology"
+    }
+  ],
+    "paging": {
+        "total": 100
+    }
+}
