@@ -3,116 +3,97 @@
 [
      {"id": "valerida",
       "mrkHROrgname": " Integration Delivery",
-      "mrkHROrgid": " 54039572",
-	  "lastLogin": 
+      "mrkHROrgid": " 54039572"
      },
 	{
       "id": "Lily.Ward",		
       "mrkHROrgid": 1000,
-      "mrkHROrgname": "Analytical Chemistry",
-	  "lastLogin": 
+      "mrkHROrgname": "Analytical Chemistry"
     },
     {
       "id": "Steven.Lubman",	
       "mrkHROrgid": 1001,
-      "mrkHROrgname": "Assay Development",
-	  "lastLogin": 
+      "mrkHROrgname": "Assay Development"
     },
     {
       "id": "Emma.Morris",			
       "mrkHROrgid": 1002,
-      "mrkHROrgname": "Assay Screening",
-	  "lastLogin": 
+      "mrkHROrgname": "Assay Screening"
     },
     {
       "id": "Emily.Stewart",		
       "mrkHROrgid": 1003,
-      "mrkHROrgname": "Cancer Biology",
-	  "lastLogin": 
+      "mrkHROrgname": "Cancer Biology"
     },
     {
       "id": "Ella.King",				
       "mrkHROrgid": 1004,
-      "mrkHROrgname": "Computer Aided Drug Design",
-	  "lastLogin": 
+      "mrkHROrgname": "Computer Aided Drug Design"
     },
     {
       "id": "Daniel.Miller",				 
       "mrkHROrgid": 1005,
-      "mrkHROrgname": "CRO Chemistry",
-	  "lastLogin": 
+      "mrkHROrgname": "CRO Chemistry"
     },
     {
       "id": "Chloe.Clark",			
       "mrkHROrgid": 1006,
-      "mrkHROrgname": "Discovery Chemistry",
-	  "lastLogin": 
+      "mrkHROrgname": "Discovery Chemistry"
     },
     {
       "id": "Joseph.Cook",			
       "mrkHROrgid": 1007,
-      "mrkHROrgname": "Formulations",
-	  "lastLogin": 
+      "mrkHROrgname": "Formulations"
     },
     {
       "id": "Robert.Long",			
       "mrkHROrgid": 1008,
-      "mrkHROrgname": "High Throughput Screening",
-	  "lastLogin": 
+      "mrkHROrgname": "High Throughput Screening"
     },
     {
       "id": "juliaGMAIL",		
       "mrkHROrgid": 1009,
-      "mrkHROrgname": "Preclinical PK/PD",
-	  "lastLogin": 
+      "mrkHROrgname": "Preclinical PK/PD"
     },
     {
       "id": "tom.winters",			
       "mrkHROrgid": 1010,
-      "mrkHROrgname": "Process Chemistry",
-	  "lastLogin": 
+      "mrkHROrgname": "Process Chemistry"
     },
     {
       "id": "kobersky",	
       "mrkHROrgid": 1011,
-      "mrkHROrgname": "Radio Chemistry",
-	  "lastLogin": 
+      "mrkHROrgname": "Radio Chemistry"
     },
     {
       "id": "valerian",
       "mrkHROrgid": 1012,
-      "mrkHROrgname": "Plasmid Production",
-	  "lastLogin": 
+      "mrkHROrgname": "Plasmid Production"
     },
     {
       "id": "tom",      
       "mrkHROrgid": 1013,
-      "mrkHROrgname": "Protein Characterization",
-	  "lastLogin": 
+      "mrkHROrgname": "Protein Characterization"
     },
     {	
       "id": "juliaPKI",
       "mrkHROrgid": 1014,
-      "mrkHROrgname": "Protein Production",
-	  "lastLogin": 
+      "mrkHROrgname": "Protein Production"
     },
     {
       "id": "julia.ivashina1",
       "mrkHROrgid": 1015,
-      "mrkHROrgname": "Toxicology",
-	  "lastLogin": 
+      "mrkHROrgname": "Toxicology"
     },
     {
       "id": "fajtj",		
       "mrkHROrgid": 1025,
-      "mrkHROrgname": "MRL/IT - GIC Research to Release",
-	  "lastLogin": 
+      "mrkHROrgname": "MRL/IT - GIC Research to Release"
     },
     {
       "id": "pleskovv",		
       "mrkHROrgid": 1026,
-      "mrkHROrgname": "MRL/IT - Integration Delivery",
-	  "lastLogin": 
+      "mrkHROrgname": "MRL/IT - Integration Delivery"
     }
 ],
    "paging": {
