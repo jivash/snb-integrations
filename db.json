@@ -1,128 +1,100 @@
 {
   "BusinessUnits":
 [
-    {
-      "id": "Lily.Ward",		
-      "BuID": 1000,
-      "BuName": "Analytical Chemistry"
+     {"isid": "valerida",
+      "mrkHROrgname": " Integration Delivery",
+      "mrkHROrgid": " 54039572"
+     },
+	{
+      "isid": "Lily.Ward",		
+      "mrkHROrgid": 1000,
+      "mrkHROrgname": "Analytical Chemistry"
     },
     {
-      "id": "Steven.Lubman",	
-      "BuID": 1001,
-      "BuName": "Assay Development"
+      "isid": "Steven.Lubman",	
+      "mrkHROrgid": 1001,
+      "mrkHROrgname": "Assay Development"
     },
     {
-      "id": "Emma.Morris",			
-      "BuID": 1002,
-      "BuName": "Assay Screening"
+      "isid": "Emma.Morris",			
+      "mrkHROrgid": 1002,
+      "mrkHROrgname": "Assay Screening"
     },
     {
       "isid": "Emily.Stewart",		
-      "BuID": 1003,
-      "BuName": "Cancer Biology"
+      "mrkHROrgid": 1003,
+      "mrkHROrgname": "Cancer Biology"
     },
     {
-      "id": "Ella.King",				
-      "BuID": 1004,
-      "BuName": "Computer Aided Drug Design"
+      "isid": "Ella.King",				
+      "mrkHROrgid": 1004,
+      "mrkHROrgname": "Computer Aided Drug Design"
     },
     {
-      "id": "Daniel.Miller",				 
-      "BuID": 1005,
-      "BuName": "CRO Chemistry"
+      "isid": "Daniel.Miller",				 
+      "mrkHROrgid": 1005,
+      "mrkHROrgname": "CRO Chemistry"
     },
     {
-      "id": "Chloe.Clark",			
-      "BuID": 1006,
-      "BuName": "Discovery Chemistry"
+      "isid": "Chloe.Clark",			
+      "mrkHROrgid": 1006,
+      "mrkHROrgname": "Discovery Chemistry"
     },
     {
-      "id": "Joseph.Cook",			
-      "BuID": 1007,
-      "BuName": "Formulations"
+      "isid": "Joseph.Cook",			
+      "mrkHROrgid": 1007,
+      "mrkHROrgname": "Formulations"
     },
     {
-      "id": "Robert.Long",			
-      "BuID": 1008,
-      "BuName": "High Throughput Screening"
+      "isid": "Robert.Long",			
+      "mrkHROrgid": 1008,
+      "mrkHROrgname": "High Throughput Screening"
     },
     {
-      "id": "juliaGMAIL",		
-      "BuID": 1009,
-      "BuName": "Preclinical PK/PD"
+      "isid": "juliaGMAIL",		
+      "mrkHROrgid": 1009,
+      "mrkHROrgname": "Preclinical PK/PD"
     },
     {
-      "id": "tom.winters",			
-      "BuID": 1010,
-      "BuName": "Process Chemistry"
+      "isid": "tom.winters",			
+      "mrkHROrgid": 1010,
+      "mrkHROrgname": "Process Chemistry"
     },
     {
-      "id": "kobersky",	
-      "BuID": 1011,
-      "BuName": "Radio Chemistry"
+      "isid": "kobersky",	
+      "mrkHROrgid": 1011,
+      "mrkHROrgname": "Radio Chemistry"
     },
     {
-      "id": "valerian",
-      "BuID": 1012,
-      "BuName": "Plasmid Production"
+      "isid": "valerian",
+      "mrkHROrgid": 1012,
+      "mrkHROrgname": "Plasmid Production"
     },
     {
-      "id": "tom",      
-      "BuID": 1013,
-      "BuName": "Protein Characterization"
+      "isid": "tom",      
+      "mrkHROrgid": 1013,
+      "mrkHROrgname": "Protein Characterization"
     },
     {	
-      "id": "juliaPKI",
-      "BuID": 1014,
-      "BuName": "Protein Production"
+      "isid": "juliaPKI",
+      "mrkHROrgid": 1014,
+      "mrkHROrgname": "Protein Production"
     },
     {
-      "id": "julia.ivashina1",
-      "BuID": 1015,
-      "BuName": "Toxicology"
+      "isid": "julia.ivashina1",
+      "mrkHROrgid": 1015,
+      "mrkHROrgname": "Toxicology"
     },
     {
-      "id": "fajtj",		
-      "BuID": 1025,
-      "BuName": "MRL/IT - GIC Research to Release"
+      "isid": "fajtj",		
+      "mrkHROrgid": 1025,
+      "mrkHROrgname": "MRL/IT - GIC Research to Release"
     },
     {
-      "id": "pleskovv",		
-      "BuID": 1026,
-      "BuName": "MRL/IT - Integration Delivery"
+      "isid": "pleskovv",		
+      "mrkHROrgid": 1026,
+      "mrkHROrgname": "MRL/IT - Integration Delivery"
     }
-],
-"Projects":  
-[
-  {
-    "id": "M12345",
-    "biologicalTarget": "vacc",
-    "franchise": "Oncology",
-    "indication": "Indication Cancer",
-    "mkNumber": "MK-V666",
-    "projectDescription": "This field contains description of the Project M12345",
-    "projectStatus": "Super",
-    "therapeuticArea": "Oncology"
-  },
-  {
-    "id": "M54321",
-    "biologicalTarget": "AdRB",
-    "franchise": "Ophthalmology",
-    "indication": "Glaucoma",
-    "mkNumber": "MK-7777A",
-    "projectDescription": "This field contains description of the Project M12345",
-    "projectStatus": "Great",
-    "therapeuticArea": "Ophthalmology"
-  },
-  {
-    "id": "M97531",
-    "biologicalTarget": "BlgTrg",
-    "franchise": "Neurology",
-    "indication": "Education",
-    "mkNumber": "MK-3333A",
-    "projectDescription": "This field contains description of the Project M97531",
-    "projectStatus": "Great",
-    "therapeuticArea": "Neurology"
-  }
-]  
+]
 }
+
