@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 100,
+      "Partner Name": "BGI",
+      "Address": "Mainland China. Building No.7, BGI Park, No.21 Hongan 3rd Street, Yantian District,Shenzhen 518083",
+      "Phone": "(+86) 755 25273120", 
+      "Account": "ABC8930-60989"	
+    },
+    {
+      "id": 200,
+      "Partner Name": "BOSTON SCIENTIFIC",
+      "Address": "100 Boston Scientific Way, Marlborough, MA 01752",
+      "Phone": "(+1) 781 2525000", 
+      "Account": "EFG8930-77777"	
+    },
+    {
+      "id": 300,
+      "Partner Name": "BROAD INSTITUTE",
+      "Address": "415 Main Street Cambridge, MA 02142 United States",
+      "Phone": "(+1) 617 5695000", 
+      "Account": "HIJ8930-8888"	
+    },
+    {
+      "id": 400,
+      "Partner Name": "GILEAD",
+      "Address": "333 Lakeside Drive. Foster City, CA 94404",
+      "Phone": "(+1) 415 4355000", 
+      "Account": "KLM8930-3334"	
+    }
+  ],
+    "paging": {
+        "total": 100
+    }
+}
