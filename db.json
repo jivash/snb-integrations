@@ -1,5 +1,5 @@
 {
-   "test":{
+   "test":[
    {	
       "id": "juliaPKI",
       "mrkHROrgid": 1014,
@@ -90,7 +90,7 @@
       "mrkHROrgid": 1004,
       "mrkHROrgname": "Computer Aided Drug Design"
     }
-},  
+],  
   "BusinessUnits": [
     {	
       "id": "juliaPKI",
