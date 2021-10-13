@@ -1,13 +1,14 @@
 {
+"BuUnits":[
   {	
       "id": "juliaPKI",
-	   "alias": "juliaPKI",
+      "alias": "juliaPKI",
       "mrkHROrgid": 1014,
       "mrkHROrgname": "Protein Production"
     },
     {
       "id": "julia.ivashina1",
-	   "alias": "julia.ivashina1",
+      "alias": "julia.ivashina1",
       "mrkHROrgid": 1015,
       "mrkHROrgname": "Toxicology"
     },	
@@ -19,13 +20,13 @@
     },
     {
       "id": "Chloe.Clark",			
-	   "alias": "Chloe.Clark",	
+      "alias": "Chloe.Clark",	
       "mrkHROrgid": 1006,
       "mrkHROrgname": "Discovery Chemistry"
     },
     {
       "id": "Joseph.Cook",			
-	   "alias": "Joseph.Cook",		
+      "alias": "Joseph.Cook",		
       "mrkHROrgid": 1007,
       "mrkHROrgname": "Formulations"
     },
@@ -37,7 +38,7 @@
     },
     {
       "id": "juliaGMAIL",		
-	   "alias": "juliaGMAIL",	
+      "alias": "juliaGMAIL",	
       "mrkHROrgid": 1009,
       "mrkHROrgname": "Preclinical PK/PD"
     },
@@ -49,62 +50,63 @@
     },
     {
       "id": "kobersky",	
-	   "alias": "kobersky",	
+      "alias": "kobersky",	
       "mrkHROrgid": 1011,
       "mrkHROrgname": "Radio Chemistry"
     },
     {
       "id": "valerian",
-	   "alias": "valerian",
+      "alias": "valerian",
       "mrkHROrgid": 1012,
       "mrkHROrgname": "Plasmid Production"
     },
     {
       "id": "tom",      
-	   "alias": "tom",      
+      "alias": "tom",      
       "mrkHROrgid": 1013,
       "mrkHROrgname": "Protein Characterization"
     },
     {
       "id": "fajtj",		
-	   "alias": "fajtj",	
+      "alias": "fajtj",	
       "mrkHROrgid": 1025,
       "mrkHROrgname": "MRL/IT - GIC Research to Release"
     },
      {
       "id": "Lily.Ward",		
-	   "alias": "Lily.Ward",	
+      "alias": "Lily.Ward",	
       "mrkHROrgid": 1000,
       "mrkHROrgname": "Analytical Chemistry"
     },
     {
       "id": "Steven.Lubman",	
-	   "alias": "Steven.Lubman",	
+      "alias": "Steven.Lubman",	
       "mrkHROrgid": 1001,
       "mrkHROrgname": "Assay Development"
     },
     {
       "id": "Emma.Morris",			
-	   "alias": "Emma.Morris",	
+      "alias": "Emma.Morris",	
       "mrkHROrgid": 1002,
       "mrkHROrgname": "Assay Screening"
     },
     {
       "id": "Emily.Stewart",		
-	   "alias": "Emily.Stewart",		
+      "alias": "Emily.Stewart",		
       "mrkHROrgid": 1003,
       "mrkHROrgname": "Cancer Biology"
     },
     {
       "id": "Ella.King",				
-	   "alias": "Ella.King",	
+      "alias": "Ella.King",	
       "mrkHROrgid": 1004,
       "mrkHROrgname": "Computer Aided Drug Design"
     },
     {
       "id": "Jose.Hernandez",				
-	   "alias": "Jose.Hernandez",	
+      "alias": "Jose.Hernandez",	
       "mrkHROrgid": 1004,
       "mrkHROrgname": "Computer Aided Drug Design"
     }
+]	
 }
