@@ -1,4 +1,6 @@
-"BuUnits":[
+{
+"BuUnits":
+[
   {	
       "id": "juliaPKI",
       "alias": "juliaPKI",
@@ -108,3 +110,4 @@
       "mrkHROrgname": "Computer Aided Drug Design"
     }
 ]	
+}
