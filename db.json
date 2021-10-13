@@ -1,5 +1,6 @@
 {
-   "test":[
+   "test": 
+[
    {	
       "id": "juliaPKI",
       "mrkHROrgid": 1014,
@@ -91,7 +92,8 @@
       "mrkHROrgname": "Computer Aided Drug Design"
     }
 ],  
-  "BusinessUnits": [
+  "BusinessUnits": 
+[
     {	
       "id": "juliaPKI",
       "mrkHROrgid": 1014,
@@ -183,7 +185,8 @@
       "mrkHROrgname": "Computer Aided Drug Design"
     }
 ],
-  "MRK_BuUnits": [
+  "MRK_BuUnits": 
+[
     {	
       "alias": "juliaPKI",
       "mrkHROrgid": 1014,
