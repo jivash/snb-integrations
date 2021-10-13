@@ -1,4 +1,94 @@
 {
+   {	
+      "id": "juliaPKI",
+      "mrkHROrgid": 1014,
+      "mrkHROrgname": "Protein Production"
+    },
+    {
+      "id": "julia.ivashina1",
+      "mrkHROrgid": 1015,
+      "mrkHROrgname": "Toxicology"
+    },	
+    {
+      "id": "Daniel.Miller",				 
+      "mrkHROrgid": 1005,
+      "mrkHROrgname": "CRO Chemistry"
+    },
+    {
+      "id": "Chloe.Clark",			
+      "mrkHROrgid": 1006,
+      "mrkHROrgname": "Discovery Chemistry"
+    },
+    {
+      "id": "Joseph.Cook",			
+      "mrkHROrgid": 1007,
+      "mrkHROrgname": "Formulations"
+    },
+    {
+      "id": "Robert.Long",			
+      "mrkHROrgid": 1008,
+      "mrkHROrgname": "High Throughput Screening"
+    },
+    {
+      "id": "juliaGMAIL",		
+      "mrkHROrgid": 1009,
+      "mrkHROrgname": "Preclinical PK/PD"
+    },
+    {
+      "id": "tom.winters",			
+      "mrkHROrgid": 1010,
+      "mrkHROrgname": "Process Chemistry"
+    },
+    {
+      "id": "kobersky",	
+      "mrkHROrgid": 1011,
+      "mrkHROrgname": "Radio Chemistry"
+    },
+    {
+      "id": "valerian",
+      "mrkHROrgid": 1012,
+      "mrkHROrgname": "Plasmid Production"
+    },
+    {
+      "id": "tom",      
+      "mrkHROrgid": 1013,
+      "mrkHROrgname": "Protein Characterization"
+    },
+    {
+      "id": "fajtj",		
+      "mrkHROrgid": 1025,
+      "mrkHROrgname": "MRL/IT - GIC Research to Release"
+    },
+     {
+      "id": "Lily.Ward",		
+      "mrkHROrgid": 1000,
+      "mrkHROrgname": "Analytical Chemistry"
+    },
+    {
+      "id": "Steven.Lubman",	
+      "mrkHROrgid": 1001,
+      "mrkHROrgname": "Assay Development"
+    },
+    {
+      "id": "Emma.Morris",			
+      "mrkHROrgid": 1002,
+      "mrkHROrgname": "Assay Screening"
+    },
+    {
+      "id": "Emily.Stewart",		
+      "mrkHROrgid": 1003,
+      "mrkHROrgname": "Cancer Biology"
+    },
+    {
+      "id": "Ella.King",				
+      "mrkHROrgid": 1004,
+      "mrkHROrgname": "Computer Aided Drug Design"
+    },
+    {
+      "id": "Jose.Hernandez",				
+      "mrkHROrgid": 1004,
+      "mrkHROrgname": "Computer Aided Drug Design"
+    },  
   "BusinessUnits": [
     {	
       "id": "juliaPKI",
