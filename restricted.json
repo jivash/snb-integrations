@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "project_code": "OXY-SEC-367210",
+      "project_desc": "Bon Aire: How divers can dive deeper with assistance of a medical device HAPPY BUBBLES - Generic Brand - OXYGEN",
+      "short_desc": "Generic Brand Support-OXYGEN",
+      "indication": "Underwater Breathing",
+      "biological_target": "OXY",
+      "compound_id": "7210",
+      "franchise": "Pulmonology"
+    },
+    {
+      "project_code": "LIV-SEC-469211",
+      "project_desc": "Cointreau Citrus Triple: Feasability and efficacy of Aldehyde Dehydrogenase to reduce alcohol toxicity - French Brand - LIVER",
+      "short_desc": "French Brand Support-LIVER",
+      "indication": "Controlled alcohol stimulation",
+      "biological_target": "LIV",
+      "compound_id": "9211",
+      "franchise": "Hepatology"
+    },
+   {
+      "project_code": "KDN-SEC-556300",
+      "project_desc": "Cointreau Citrus Triple: Elimination of alcohol by kidneys with Aldehyde Dehydrogenase - French Brand - KIDNEY",
+      "short_desc": "French Brand Support-LIVER",
+      "indication": "Controlled kidney stimulation",
+      "biological_target": "KDN",
+      "compound_id": "6300",
+      "franchise": "Nephrology"
+    },    
+    {
+      "project_code": "BRN-SEC-202033",
+      "project_desc": "Chocolate Spumoni - Ralph's Famous Italian Brand - BRAIN",
+      "short_desc": "Chocolate Spumoni on brain stimulation and dopamine production - Ralph's Famous Italian Brand - BRAIN",
+      "indication": "Controlled brain stimulation",
+      "biological_target": "BRN",
+      "compound_id": "2033",
+      "franchise": "Neurology"
+    },
+    {
+      "project_code": "OVA-SEC-05232",
+      "project_desc": "Delayed child-bearing - Does reduced ovarian reserve and life-style factors contribute to infertility in women? - All Brand Support - OVABOOM",
+      "short_desc": "OVABOOM - How ovarian reserve decreases? To what extend life-style factors contribute to infertility? Longitudinal Study - All Brand Support - OVABOOM",
+      "indication": "Controlled ovarian stimulation",
+      "biological_target": "OVA",
+      "compound_id": "5232",
+      "franchise": "Endocrinology"
+    },
+    {
+      "project_code": "ANL-SEC-00000",
+      "project_desc": "Harvard Collaboration in Bios/Pharma: screening, analysis/simulations, methods for multiple hits in cohorts",
+      "short_desc": "Harvard Collaboration in Bios/Pharma: screening, analysis/simulations, methods for multiple hits in cohorts",
+      "indication": "null",
+      "biological_target": "null",
+      "compound_id": "00000",
+      "franchise": "null"
+    },
+    {
+      "project_code": "MUL-SEC-00000",
+      "project_desc": "Multiple Therapeutic Areas - GM Medicine Biopsis COVID MABs",
+      "short_desc": "Multiple Therapeutic Areas - GM Medicine Biopsis COVID MABs",
+      "indication": "null",
+      "biological_target": "null",
+      "compound_id": "null",
+      "franchise": "Multiple Therapeutic Areas"
+    },
+    {
+      "project_code": "CRD-SEC-12345",
+      "project_desc": "CRD-inhibitor-MyC02-stimulation-IV-1",
+      "short_desc": "CRD-inhibitor-MyC02-stimulation-IV-1",
+      "indication": "null",
+      "biological_target": "MyC02",
+      "compound_id": "null",
+      "franchise": "Cardiovascular"
+    },
+    {
+      "project_code": "OVA-SEC-87609",
+      "project_desc": "OVA - A randomized, controlled, prospective study of oocyte donors - Generic Brand Support - OVABOOM",
+      "short_desc": "OVA - A randomized, controlled, prospective study of oocyte donors - Generic Brand Support - OVABOOM",
+      "indication": "Controlled ovarian stimulation",
+      "biological_target": "OVA",
+      "compound_id": "7609",
+      "franchise": "Endocrinology"
+    }
+  ],
+  "paging": {
+    "total": 20
+  }
+}
