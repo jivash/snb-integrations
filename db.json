@@ -1,113 +1,50 @@
-{
-"BusinessUnits":
 [
-  {	
-      "id": "juliaPKI",
-      "alias": "juliaPKI",
-      "mrkHROrgid": 1014,
-      "mrkHROrgname": "Protein Production"
-    },
-    {
-      "id": "julia.ivashina1",
-      "alias": "julia.ivashina1",
-      "mrkHROrgid": 1015,
-      "mrkHROrgname": "Toxicology"
-    },	
-    {
-      "id": "Daniel.Miller",				 
-	   "alias": "Daniel.Miller",	
-      "mrkHROrgid": 1005,
-      "mrkHROrgname": "CRO Chemistry"
-    },
-    {
-      "id": "Chloe.Clark",			
-      "alias": "Chloe.Clark",	
-      "mrkHROrgid": 1006,
-      "mrkHROrgname": "Discovery Chemistry"
-    },
-    {
-      "id": "Joseph.Cook",			
-      "alias": "Joseph.Cook",		
-      "mrkHROrgid": 1007,
-      "mrkHROrgname": "Formulations"
-    },
-    {
-      "id": "Robert.Long",		
-      "alias": "Robert.Long",			  
-      "mrkHROrgid": 1008,
-      "mrkHROrgname": "High Throughput Screening"
-    },
-    {
-      "id": "juliaGMAIL",		
-      "alias": "juliaGMAIL",	
-      "mrkHROrgid": 1009,
-      "mrkHROrgname": "Preclinical PK/PD"
-    },
-    {
-      "id": "tom.winters",		
-      "alias": "tom.winters",			  
-      "mrkHROrgid": 1010,
-      "mrkHROrgname": "Process Chemistry"
-    },
-    {
-      "id": "kobersky",	
-      "alias": "kobersky",	
-      "mrkHROrgid": 1011,
-      "mrkHROrgname": "Radio Chemistry"
-    },
-    {
-      "id": "valerian",
-      "alias": "valerian",
-      "mrkHROrgid": 1012,
-      "mrkHROrgname": "Plasmid Production"
-    },
-    {
-      "id": "tom",      
-      "alias": "tom",      
-      "mrkHROrgid": 1013,
-      "mrkHROrgname": "Protein Characterization"
-    },
-    {
-      "id": "fajtj",		
-      "alias": "fajtj",	
-      "mrkHROrgid": 1025,
-      "mrkHROrgname": "MRL/IT - GIC Research to Release"
-    },
-     {
-      "id": "Lily.Ward",		
-      "alias": "Lily.Ward",	
-      "mrkHROrgid": 1000,
-      "mrkHROrgname": "Analytical Chemistry"
-    },
-    {
-      "id": "Steven.Lubman",	
-      "alias": "Steven.Lubman",	
-      "mrkHROrgid": 1001,
-      "mrkHROrgname": "Assay Development"
-    },
-    {
-      "id": "Emma.Morris",			
-      "alias": "Emma.Morris",	
-      "mrkHROrgid": 1002,
-      "mrkHROrgname": "Assay Screening"
-    },
-    {
-      "id": "Emily.Stewart",		
-      "alias": "Emily.Stewart",		
-      "mrkHROrgid": 1003,
-      "mrkHROrgname": "Cancer Biology"
-    },
-    {
-      "id": "Ella.King",				
-      "alias": "Ella.King",	
-      "mrkHROrgid": 1004,
-      "mrkHROrgname": "Computer Aided Drug Design"
-    },
-    {
-      "id": "Jose.Hernandez",				
-      "alias": "Jose.Hernandez",	
-      "mrkHROrgid": 1004,
-      "mrkHROrgname": "Computer Aided Drug Design"
-    }
-]	
-}
+  {
+    "id":1,
+    "batch_id": "PKI-000011111-001A001",
+    "alias":"daniel.miller",
+    "chemblid": "CHEMBL582",
+    "name": "isopropyl alcohol",
+    "molfile": "\n     RDKit          2D\n\n  4  3  0  0  0  0  0  0  0  0999 V2000\n    0.4287    0.7265    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.0162    0.0121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.4287   -0.7024    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.8088    0.0121    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  1  0\n  2  4  1  0\nM  END"
+  },
+  {
+    "id":2,	  
+    "batch_id": "PKI-000054321-001B001",
+    "alias":"daniel.miller",
+    "chemblid": "CHEMBL135416",
+    "name": "propane",
+    "molfile": "\n     RDKit          2D\n\n  3  2  0  0  0  0  0  0  0  0999 V2000\n   -0.7145    0.1446    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000   -0.2679    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.7145    0.1446    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  1  0\nM  END"
+  },
+  {
+    "id":3,	  
+    "batch_id": "PKI-000012345-001C001",
+    "alias":"chloe.clark",
+    "chemblid": "CHEMBL277500",
+    "name": "benzene",
+    "molfile": "\n     RDKit          2D\n\n  6  6  0  0  0  0  0  0  0  0999 V2000\n    0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.0000   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0\n  1  6  1  0\n  2  3  1  0\n  3  4  2  0\n  4  5  1  0\n  5  6  2  0\nM  END"
+  },
+  {
+    "id":4,	  
+    "batch_id": "PKI-000011111-001A001",
+    "alias":"julia.ivashina",
+    "chemblid": "CHEMBL582",
+    "name": "isopropyl alcohol",
+    "molfile": "\n     RDKit          2D\n\n  4  3  0  0  0  0  0  0  0  0999 V2000\n    0.4287    0.7265    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.0162    0.0121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.4287   -0.7024    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.8088    0.0121    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  1  0\n  2  4  1  0\nM  END"
+  },
+  {
+    "id":5,	  
+    "batch_id": "PKI-000054321-001B001",
+    "alias":"julia.ivashina",
+    "chemblid": "CHEMBL135416",
+    "name": "propane",
+    "molfile": "\n     RDKit          2D\n\n  3  2  0  0  0  0  0  0  0  0999 V2000\n   -0.7145    0.1446    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000   -0.2679    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.7145    0.1446    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  1  0\nM  END"
+  },
+  {
+    "id":6,	  
+    "batch_id": "PKI-000012345-001C001",
+    "alias":"julia.ivashina",
+    "chemblid": "CHEMBL277500",
+    "name": "benzene",
+    "molfile": "\n     RDKit          2D\n\n  6  6  0  0  0  0  0  0  0  0999 V2000\n    0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.0000   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0\n  1  6  1  0\n  2  3  1  0\n  3  4  2  0\n  4  5  1  0\n  5  6  2  0\nM  END"
+  }
+] 
